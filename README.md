@@ -14,6 +14,8 @@
 3. Git clone mmdetection on the home directory
 
         $ git clone https://github.com/open-mmlab/mmdetection.git
+        $ cd mmdetection
+        $ pip install -v -e .
 
 4. Run the streamlit.py file
 
