@@ -19,5 +19,11 @@
 
 4. Run the streamlit.py file
 
-        $ cd web
+        $ cd ..
         $ streamlit run web/streamlit.py
+
+4-1. If running on server
+
+        $ cd ..
+        $ streamlit run web/streamlit.py --browser.serverAddress localhost
+
